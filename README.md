@@ -9,7 +9,7 @@
 ## 用途
 
 主仓库 [lessons-in-love-analysis](https://github.com/anchorfly/lessons-in-love-analysis)
-的攻略页 `guide.html` 从这里加载图片。
+的 `guide.html` 从这里加载图片。
 
 ## 路径映射
 
